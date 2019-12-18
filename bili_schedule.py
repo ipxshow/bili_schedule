@@ -71,5 +71,3 @@ while True:
     schedule.run_pending()
     time.sleep(1)
 
-# 执行脚本
-# nohup python bili_schedule.py &
