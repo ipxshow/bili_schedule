@@ -8,13 +8,13 @@ import requests
 
 '''user config'''
 # 用户密码
-password = '1997176626'
+password = ''
 '''
 server酱的sckey
 在这里申请http://sc.ftqq.com/3.version
 留空则不推送到微信
 '''
-sckey = 'SCU67702Ta1063435f840f95730df068a81079d265de47cc60d0e1'
+sckey = ''
 '''
 定义开始和结束时间
 格式为00:00
