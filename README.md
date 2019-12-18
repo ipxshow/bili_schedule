@@ -1,5 +1,5 @@
 # bili_schedule
-定时启动运行于linux上的BiliHelper服务的python程序
+定时启动运行于linux上的BiliHelper服务的python脚本
 
 ## 环境要求
 linux
